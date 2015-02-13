@@ -951,7 +951,10 @@ Saint <hi>Dennis,</hi> and your maiden-heade mustlye at the stake.</p>
                <l>Ile thanke the Heauens for taking such a Sonne.</l>
                <l>Whose within there?</l>
             </sp>
-            <stage>Enter Compton. My Lord.</stage>
+            <stage>Enter Compton.</stage>
+            <sp>
+              <l>My Lord.</l>
+            </sp>
             <sp>
                <speaker>king.</speaker>
                <l>Goe <hi>Compton,</hi> bid Lord <hi>Seimer</hi> come to me,</l>
